@@ -1,0 +1,10 @@
+Package: series
+Type: Package
+Title: Series
+Version: 0.1.0
+Author: Aditya Anand Iyer
+Maintainer: The package maintainer <h20220818@pilani-bits-pilani.ac.in>
+Description: Return n numbers of a series
+License: GNU General Public License v3.0
+Encoding: UTF-8
+LazyData: true
