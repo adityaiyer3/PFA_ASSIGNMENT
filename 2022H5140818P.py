@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu 8th Dec 2022
+@author: Aditya
+"""
 def nth_root(a,b) :
     if b == 0:
         print("Please enter a valid no.")
